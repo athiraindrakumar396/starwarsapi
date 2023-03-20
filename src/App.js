@@ -442,7 +442,7 @@ function App() {
               <a className="link-style" href="https://github.com/athiraindrakumar396">Athira Indrakumar</a>
             </div>
             <div className="star-header">Code available in: 
-              <a className="link-style" href="https://github.com/athiraindrakumar396">Github</a>
+              <a className="link-style" href="https://github.com/athiraindrakumar396/starwarsapi">Github</a>
             </div>
           </div>
           <div className='gallery'>
